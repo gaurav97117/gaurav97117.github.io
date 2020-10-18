@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-LINK: 
+LINK: file:///C:/Users/Gaurav%20singh/Desktop/index.html
 
 Woo-hoo! You get to do some coding! Exciting!
 
